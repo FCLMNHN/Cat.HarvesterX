@@ -1,0 +1,1129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<oai:OAI-PMH xmlns:oai="http://www.openarchives.org/OAI/2.0/">
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/0BI3LB</oai:identifier>
+      <oai:datestamp>2025-04-24T01:53:06Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/0BI3LB">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/1F0UBU</oai:identifier>
+      <oai:datestamp>2025-01-22T02:12:52Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/1F0UBU">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/1KKJNF</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/1KKJNF">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/2GPGSY</oai:identifier>
+      <oai:datestamp>2025-11-21T00:52:35Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/2GPGSY">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/3D4DFW</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/3D4DFW">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/3RKBX5</oai:identifier>
+      <oai:datestamp>2026-03-11T14:18:20Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/3RKBX5">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/4OPGD9</oai:identifier>
+      <oai:datestamp>2025-05-15T00:58:38Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>sorbonne-univ</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/4OPGD9">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/52DRWH</oai:identifier>
+      <oai:datestamp>2025-04-11T03:27:40Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/52DRWH">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/5CULZB</oai:identifier>
+      <oai:datestamp>2025-07-17T00:41:02Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/5CULZB">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/5LIMI5</oai:identifier>
+      <oai:datestamp>2025-07-24T00:53:05Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/5LIMI5">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/5O6QIH</oai:identifier>
+      <oai:datestamp>2025-09-03T00:57:16Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/5O6QIH">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/69UNAM</oai:identifier>
+      <oai:datestamp>2024-05-28T00:10:17Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/69UNAM">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/6PE4CY</oai:identifier>
+      <oai:datestamp>2025-03-21T03:27:54Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/6PE4CY">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/7HF7KG</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/7HF7KG">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/B6PSX0</oai:identifier>
+      <oai:datestamp>2025-01-22T02:12:52Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/B6PSX0">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/BYWEA3</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/BYWEA3">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/E25YTA</oai:identifier>
+      <oai:datestamp>2025-10-07T00:51:12Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/E25YTA">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/ELLXJF</oai:identifier>
+      <oai:datestamp>2024-04-10T00:11:47Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/ELLXJF">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/ENJADK</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/ENJADK">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/EXO0JY</oai:identifier>
+      <oai:datestamp>2025-01-22T02:12:52Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/EXO0JY">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/G02ZXZ</oai:identifier>
+      <oai:datestamp>2025-03-13T03:45:57Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>univ-gustave-eiffel</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/G02ZXZ">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/GBYNAN</oai:identifier>
+      <oai:datestamp>2024-07-27T00:32:09Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/GBYNAN">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/GKU1J1</oai:identifier>
+      <oai:datestamp>2026-03-10T14:38:20Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/GKU1J1">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/GRHRZJ</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>inria</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/GRHRZJ">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/GSMEFN</oai:identifier>
+      <oai:datestamp>2024-04-03T00:10:20Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>univ-lille</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/GSMEFN">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/GZKUZS</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/GZKUZS">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/HZDPTT</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/HZDPTT">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/ID1LS6</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/ID1LS6">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/IKYMKA</oai:identifier>
+      <oai:datestamp>2024-07-12T00:31:11Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/IKYMKA">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/IZDE4Q</oai:identifier>
+      <oai:datestamp>2025-01-22T02:12:52Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/IZDE4Q">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/IZHDPC</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/IZHDPC">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/JKQWMA</oai:identifier>
+      <oai:datestamp>2025-07-17T00:41:02Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/JKQWMA">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/JOZ1NA</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/JOZ1NA">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/JUMYUY</oai:identifier>
+      <oai:datestamp>2025-07-08T00:42:13Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/JUMYUY">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/KRLFEF</oai:identifier>
+      <oai:datestamp>2025-07-24T00:53:05Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/KRLFEF">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/LMNHWM</oai:identifier>
+      <oai:datestamp>2025-07-17T00:41:02Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/LMNHWM">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/LPJ2S2</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/LPJ2S2">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/LUTMNE</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/LUTMNE">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/NDNM89</oai:identifier>
+      <oai:datestamp>2025-12-21T02:02:52Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/NDNM89">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/NGC4J0</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/NGC4J0">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/NJABDI</oai:identifier>
+      <oai:datestamp>2026-01-12T02:03:08Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/NJABDI">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/OJBTSE</oai:identifier>
+      <oai:datestamp>2025-01-22T02:12:52Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/OJBTSE">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/OSEHHA</oai:identifier>
+      <oai:datestamp>2025-07-17T00:41:02Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/OSEHHA">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/OT1IFB</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/OT1IFB">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/OWEXY1</oai:identifier>
+      <oai:datestamp>2025-01-22T02:12:52Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/OWEXY1">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/P0KHAG</oai:identifier>
+      <oai:datestamp>2024-07-13T00:34:50Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/P0KHAG">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/P92JBL</oai:identifier>
+      <oai:datestamp>2025-07-23T00:48:09Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/P92JBL">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/PHDJMB</oai:identifier>
+      <oai:datestamp>2025-12-16T01:54:13Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/PHDJMB">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/PIHJ8O</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/PIHJ8O">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/PZRG1B</oai:identifier>
+      <oai:datestamp>2024-07-27T00:32:09Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/PZRG1B">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/QCVYG3</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/QCVYG3">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/QG9N3A</oai:identifier>
+      <oai:datestamp>2025-11-10T00:52:04Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/QG9N3A">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/QM4ZOO</oai:identifier>
+      <oai:datestamp>2026-03-13T13:18:12Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/QM4ZOO">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/QOA1QO</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/QOA1QO">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/QQ9QYA</oai:identifier>
+      <oai:datestamp>2024-03-29T01:09:50Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/QQ9QYA">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/QY9SKS</oai:identifier>
+      <oai:datestamp>2025-10-10T00:53:43Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/QY9SKS">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/R0LMFV</oai:identifier>
+      <oai:datestamp>2026-02-10T15:02:11Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>inria</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/R0LMFV">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/RCN3QP</oai:identifier>
+      <oai:datestamp>2025-07-17T00:41:02Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/RCN3QP">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/RJX9XH</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/RJX9XH">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/RZPREB</oai:identifier>
+      <oai:datestamp>2026-01-23T02:04:24Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/RZPREB">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/S3IAAS</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/S3IAAS">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/S5EQYN</oai:identifier>
+      <oai:datestamp>2025-07-17T00:41:02Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/S5EQYN">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/SHDDTW</oai:identifier>
+      <oai:datestamp>2025-03-20T03:32:52Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/SHDDTW">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/SQMQP1</oai:identifier>
+      <oai:datestamp>2024-06-29T00:32:45Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/SQMQP1">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/SS15GM</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/SS15GM">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/SSC5XT</oai:identifier>
+      <oai:datestamp>2025-04-18T03:50:08Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/SSC5XT">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/TOR3SF</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/TOR3SF">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/TVAHUQ</oai:identifier>
+      <oai:datestamp>2025-01-29T02:20:05Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/TVAHUQ">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/TYD3GW</oai:identifier>
+      <oai:datestamp>2026-01-21T02:04:06Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/TYD3GW">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/TZDEIH</oai:identifier>
+      <oai:datestamp>2025-03-19T03:29:58Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/TZDEIH">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/UNUOWK</oai:identifier>
+      <oai:datestamp>2025-07-17T00:41:02Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/UNUOWK">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/UOGRPY</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>univ-gustave-eiffel</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/UOGRPY">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/VDGW93</oai:identifier>
+      <oai:datestamp>2025-07-17T00:41:02Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/VDGW93">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/VDKKAH</oai:identifier>
+      <oai:datestamp>2025-10-28T00:51:47Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/VDKKAH">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/VEG1E1</oai:identifier>
+      <oai:datestamp>2025-10-10T00:53:43Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/VEG1E1">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/VVMZTN</oai:identifier>
+      <oai:datestamp>2026-01-08T02:01:59Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/VVMZTN">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header status="deleted">
+      <oai:identifier>doi:10.57745/W6IYLX</oai:identifier>
+      <oai:datestamp>2025-05-28T00:37:49Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/WADIVD</oai:identifier>
+      <oai:datestamp>2025-07-17T00:41:02Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/WADIVD">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/WIWMMK</oai:identifier>
+      <oai:datestamp>2025-10-23T00:49:53Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/WIWMMK">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/XHQ7TL</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/XHQ7TL">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/XNJB5K</oai:identifier>
+      <oai:datestamp>2025-01-22T02:12:52Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/XNJB5K">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/YLCIPH</oai:identifier>
+      <oai:datestamp>2025-01-22T02:12:52Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/YLCIPH">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/YTSBGL</oai:identifier>
+      <oai:datestamp>2025-03-26T03:38:02Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/YTSBGL">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/YWBDQQ</oai:identifier>
+      <oai:datestamp>2025-04-11T03:27:40Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/YWBDQQ">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/YWOGIT</oai:identifier>
+      <oai:datestamp>2025-07-08T00:42:13Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/YWOGIT">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/Z3BG2U</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:32Z</oai:datestamp>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;amp;persistentId=doi:10.57745/Z3BG2U">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+</oai:OAI-PMH>

@@ -1,0 +1,127 @@
+[
+    {
+        "csv_column_name": "source_dataset",
+        "json_path": [
+            "identifier",
+            "url"
+        ],
+        "transformation": "simple"
+    },
+    {
+        "csv_column_name": "references",
+        "json_path": [
+            "identifier",
+            "url"
+        ],
+        "transformation": "simple"
+    },
+    {
+        "csv_column_name": "liens.donnees",
+        "json_path": "url"
+    },
+    {
+        "csv_column_name": "inspire.file_identifier",
+        "json_path": [
+            "identifier",
+            "url"
+        ],
+        "transformation": "simple"
+    },
+    {
+        "csv_column_name": "language",
+        "json_path": "inLanguage"
+    },
+    {
+        "csv_column_name": "name",
+        "json_path": "url",
+        "transformation": "format_doi"
+    },
+    {
+        "csv_column_name": "modified",
+        "json_path": "dateModified"
+    },
+    {
+        "csv_column_name": "dcat.created",
+        "json_path": [
+            "datePublished"
+        ],
+        "transformation": "simple"
+    },
+    {
+        "csv_column_name": "dcat.accessRights",
+        "json_path": "conditionsOfAccess"
+    },
+    {
+        "csv_column_name": "title",
+        "json_path": "name"
+    },
+    {
+        "csv_column_name": "inspire.contact_individual_name",
+        "json_path": "creator",
+        "transformation": "extract_creators"
+    },
+    {
+        "csv_column_name": "publisher",
+        "json_path": "publisher.name"
+    },
+    {
+        "csv_column_name": "description",
+        "json_path": "description"
+    },
+    {
+        "csv_column_name": "keyword",
+        "json_path": "keywords",
+        "transformation": "join_list_with_comma"
+    },
+    {
+        "csv_column_name": "keyword",
+        "constant_value": "PANGAEA",
+        "transformation": "constant"
+    },
+    {
+        "csv_column_name": "inspire.type",
+        "json_path": "@type"
+    },
+    {
+        "csv_column_name": "donnees",
+        "json_path": "distribution",
+        "transformation": "extract_distribution_urls"
+    },
+    {
+        "csv_column_name": "license",
+        "json_path": "license"
+    },
+    {
+        "csv_column_name": "license_url",
+        "json_path": "license"
+    },
+    {
+        "csv_column_name": "inspire.extend_bounding_box_southbound_latitude",
+        "json_path": "spatialCoverage.geo.box",
+        "transformation": "split_geo_box",
+        "coord_type": "south"
+    },
+    {
+        "csv_column_name": "inspire.extend_bounding_box_westbound_longitude",
+        "json_path": "spatialCoverage.geo.box",
+        "transformation": "split_geo_box",
+        "coord_type": "west"
+    },
+    {
+        "csv_column_name": "inspire.extend_bounding_box_northbound_latitude",
+        "json_path": "spatialCoverage.geo.box",
+        "transformation": "split_geo_box",
+        "coord_type": "north"
+    },
+    {
+        "csv_column_name": "inspire.extend_bounding_box_eastbound_longitude",
+        "json_path": "spatialCoverage.geo.box",
+        "transformation": "split_geo_box",
+        "coord_type": "east"
+    },
+    {
+        "csv_column_name": "dcat.temporal",
+        "json_path": "temporalCoverage",
+        "transformation": "format_temporal"
+    }
+]

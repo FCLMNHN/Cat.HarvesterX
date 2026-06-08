@@ -1,0 +1,1000 @@
+[
+    {
+        "csv_column_name": "metas.default.references",
+        "json_path": "persistentUrl"
+    },
+    {
+        "csv_column_name": "metas.default.publisher",
+        "json_path": "publisher"
+    },
+    {
+        "csv_column_name": "modified",
+        "json_path": "publicationDate"
+    },
+    {
+        "csv_column_name": "language",
+        "json_path": "metadataLanguage"
+    },
+    {
+        "csv_column_name": "Datasetpersistentid",
+        "json_path": "datasetVersion.datasetPersistentId"
+    },
+    {
+        "csv_column_name": "Storageidentifier",
+        "json_path": "datasetVersion.storageIdentifier"
+    },
+    {
+        "csv_column_name": "Versionnumber",
+        "json_path": "datasetVersion.versionNumber"
+    },
+    {
+        "csv_column_name": "Versionminornumber",
+        "json_path": "datasetVersion.versionMinorNumber"
+    },
+    {
+        "csv_column_name": "Versionstate",
+        "json_path": "datasetVersion.versionState"
+    },
+    {
+        "csv_column_name": "Unf",
+        "json_path": "datasetVersion.UNF"
+    },
+    {
+        "csv_column_name": "Lastupdatetime",
+        "json_path": "datasetVersion.lastUpdateTime"
+    },
+    {
+        "csv_column_name": "Releasetime",
+        "json_path": "datasetVersion.releaseTime"
+    },
+    {
+        "csv_column_name": "Createtime",
+        "json_path": "datasetVersion.createTime"
+    },
+    {
+        "csv_column_name": "Publicationdate",
+        "json_path": "datasetVersion.publicationDate"
+    },
+    {
+        "csv_column_name": "Citationdate",
+        "json_path": "datasetVersion.citationDate"
+    },
+    {
+        "csv_column_name": "Termsofuse",
+        "json_path": "datasetVersion.termsOfUse"
+    },
+    {
+        "csv_column_name": "Restrictions",
+        "json_path": "datasetVersion.restrictions"
+    },
+    {
+        "csv_column_name": "Citationrequirements",
+        "json_path": "datasetVersion.citationRequirements"
+    },
+    {
+        "csv_column_name": "Fileaccessrequest",
+        "json_path": "datasetVersion.fileAccessRequest"
+    },
+    {
+        "csv_column_name": "Displayname",
+        "json_path": "datasetVersion.metadataBlocks.citation.displayName"
+    },
+    {
+        "csv_column_name": "Name",
+        "json_path": "datasetVersion.metadataBlocks.citation.name"
+    },
+    {
+        "csv_column_name": "Title",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "title",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Datasetcontact",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "datasetContact",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Author",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "author",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Contributor",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "contributor",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Producer",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "producer",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Dsdescription",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "dsDescription",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Subject",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "subject",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Keyword",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "keyword",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Kindofdata",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "kindOfData",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Dataorigin",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "dataOrigin",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Publication",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "publication",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Relateddataset",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "relatedDataset",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Project",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "project",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Depositor",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "depositor",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Dateofdeposit",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "dateOfDeposit",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Displayname",
+        "json_path": "datasetVersion.metadataBlocks.geospatial.displayName"
+    },
+    {
+        "csv_column_name": "Name",
+        "json_path": "datasetVersion.metadataBlocks.geospatial.name"
+    },
+    {
+        "csv_column_name": "Geographiccoverage",
+        "array_path": "datasetVersion.metadataBlocks.geospatial.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "geographicCoverage",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Geographicboundingbox",
+        "array_path": "datasetVersion.metadataBlocks.geospatial.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "geographicBoundingBox",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Displayname",
+        "json_path": "datasetVersion.metadataBlocks.socialscience.displayName"
+    },
+    {
+        "csv_column_name": "Name",
+        "json_path": "datasetVersion.metadataBlocks.socialscience.name"
+    },
+    {
+        "csv_column_name": "Fields",
+        "json_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "transformation": "join_list_with_comma"
+    },
+    {
+        "csv_column_name": "Displayname",
+        "json_path": "datasetVersion.metadataBlocks.journal.displayName"
+    },
+    {
+        "csv_column_name": "Name",
+        "json_path": "datasetVersion.metadataBlocks.journal.name"
+    },
+    {
+        "csv_column_name": "Fields",
+        "json_path": "datasetVersion.metadataBlocks.journal.fields",
+        "transformation": "join_list_with_comma"
+    },
+    {
+        "csv_column_name": "Displayname",
+        "json_path": "datasetVersion.metadataBlocks.semantics.displayName"
+    },
+    {
+        "csv_column_name": "Name",
+        "json_path": "datasetVersion.metadataBlocks.semantics.name"
+    },
+    {
+        "csv_column_name": "Fields",
+        "json_path": "datasetVersion.metadataBlocks.semantics.fields",
+        "transformation": "join_list_with_comma"
+    },
+    {
+        "csv_column_name": "Lien_Telechargement_Complet",
+        "list_path": "datasetVersion.files",
+        "transformation": "join_html_links",
+        "link_template": {
+            "url_path": "dataFile.persistentId",
+            "label_path": "label",
+            "base_url": "https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&persistentId="
+        }
+    },
+    {
+        "csv_column_name": "Citation",
+        "json_path": "datasetVersion.citation"
+    },
+    {
+        "csv_column_name": "Name",
+        "json_path": "datasetVersion.license.name"
+    },
+    {
+        "csv_column_name": "Uri",
+        "json_path": "datasetVersion.license.uri"
+    },
+    {
+        "csv_column_name": "Iconuri",
+        "json_path": "datasetVersion.license.iconUri"
+    },
+    {
+        "csv_column_name": "Kindofdataother",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "kindOfDataOther",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Topicclassification",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "topicClassification",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Fields",
+        "json_path": "datasetVersion.metadataBlocks.geospatial.fields",
+        "transformation": "join_list_with_comma"
+    },
+    {
+        "csv_column_name": "Distributiondate",
+        "json_path": "datasetVersion.distributionDate"
+    },
+    {
+        "csv_column_name": "Alternativeurl",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "alternativeURL",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Distributiondate",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "distributionDate",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Distributor",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "distributor",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Language",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "language",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Datasources",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "dataSources",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Software",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "software",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Productiondate",
+        "json_path": "datasetVersion.productionDate"
+    },
+    {
+        "csv_column_name": "Productiondate",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "productionDate",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Timeperiodcovered",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "timePeriodCovered",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Geographicunit",
+        "array_path": "datasetVersion.metadataBlocks.geospatial.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "geographicUnit",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Subtitle",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "subtitle",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Grantnumber",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "grantNumber",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Journalvolumeissue",
+        "array_path": "datasetVersion.metadataBlocks.journal.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "journalVolumeIssue",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Journalarticletype",
+        "array_path": "datasetVersion.metadataBlocks.journal.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "journalArticleType",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Productionplace",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "productionPlace",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Dateofcollection",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "dateOfCollection",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Displayname",
+        "json_path": "datasetVersion.metadataBlocks.biomedical.displayName"
+    },
+    {
+        "csv_column_name": "Name",
+        "json_path": "datasetVersion.metadataBlocks.biomedical.name"
+    },
+    {
+        "csv_column_name": "Studydesigntype",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyDesignType",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studyassayotherorganism",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyAssayOtherOrganism",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studyassaymeasurementtype",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyAssayMeasurementType",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studyassayothermeasurmenttype",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyAssayOtherMeasurmentType",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studyassaytechnologytypeother",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyAssayTechnologyTypeOther",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Alternativetitle",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "alternativeTitle",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Notestext",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "notesText",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Series",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "series",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Relatedmaterial",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "relatedMaterial",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studyassayorganism",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyAssayOrganism",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Hasformalitylevel",
+        "array_path": "datasetVersion.metadataBlocks.semantics.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "hasFormalityLevel",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Hasontologylanguage",
+        "array_path": "datasetVersion.metadataBlocks.semantics.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "hasOntologyLanguage",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Typeofsr",
+        "array_path": "datasetVersion.metadataBlocks.semantics.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "typeOfSR",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Designedforontologytask",
+        "array_path": "datasetVersion.metadataBlocks.semantics.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "designedForOntologyTask",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Resourceversion",
+        "array_path": "datasetVersion.metadataBlocks.semantics.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "resourceVersion",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Bugdatabase",
+        "array_path": "datasetVersion.metadataBlocks.semantics.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "bugDatabase",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Endpoint",
+        "array_path": "datasetVersion.metadataBlocks.semantics.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "endpoint",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Contactforaccess",
+        "json_path": "datasetVersion.contactForAccess"
+    },
+    {
+        "csv_column_name": "Depositorrequirements",
+        "json_path": "datasetVersion.depositorRequirements"
+    },
+    {
+        "csv_column_name": "Imports",
+        "array_path": "datasetVersion.metadataBlocks.semantics.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "imports",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Otherid",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "otherId",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Accesstosources",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "accessToSources",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Lifecyclestep",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "lifeCycleStep",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Qualityvalidity",
+        "array_path": "datasetVersion.metadataBlocks.geospatial.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "qualityValidity",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Displayname",
+        "json_path": "datasetVersion.metadataBlocks.computationalworkflow.displayName"
+    },
+    {
+        "csv_column_name": "Name",
+        "json_path": "datasetVersion.metadataBlocks.computationalworkflow.name"
+    },
+    {
+        "csv_column_name": "Workflowtype",
+        "array_path": "datasetVersion.metadataBlocks.computationalworkflow.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "workflowType",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Workflowcoderepository",
+        "array_path": "datasetVersion.metadataBlocks.computationalworkflow.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "workflowCodeRepository",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studyassaytechnologytype",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyAssayTechnologyType",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studyassayplatform",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyAssayPlatform",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Otherreferences",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "otherReferences",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Termsofaccess",
+        "json_path": "datasetVersion.termsOfAccess"
+    },
+    {
+        "csv_column_name": "Availabilitystatus",
+        "json_path": "datasetVersion.availabilityStatus"
+    },
+    {
+        "csv_column_name": "Conformity",
+        "array_path": "datasetVersion.metadataBlocks.geospatial.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "conformity",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Conditions",
+        "json_path": "datasetVersion.conditions"
+    },
+    {
+        "csv_column_name": "Dataaccessplace",
+        "json_path": "datasetVersion.dataAccessPlace"
+    },
+    {
+        "csv_column_name": "Unitofanalysis",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "unitOfAnalysis",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Datacollector",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "dataCollector",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Collectionmode",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "collectionMode",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Researchinstrument",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "researchInstrument",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Disclaimer",
+        "json_path": "datasetVersion.disclaimer"
+    },
+    {
+        "csv_column_name": "Universe",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "universe",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Datacollectionsituation",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "dataCollectionSituation",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Socialsciencenotes",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "socialScienceNotes",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studyfactortype",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyFactorType",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Originofsources",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "originOfSources",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Workflowdocumentation",
+        "array_path": "datasetVersion.metadataBlocks.computationalworkflow.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "workflowDocumentation",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studysampletype",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studySampleType",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studyassayplatformother",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyAssayPlatformOther",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studyassaycelltype",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyAssayCellType",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studyprotocoltype",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyProtocolType",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Studyfactortypeother",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyFactorTypeOther",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Characteristicofsources",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "characteristicOfSources",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Originalarchive",
+        "json_path": "datasetVersion.originalArchive"
+    },
+    {
+        "csv_column_name": "Confidentialitydeclaration",
+        "json_path": "datasetVersion.confidentialityDeclaration"
+    },
+    {
+        "csv_column_name": "Studydesigntypeother",
+        "array_path": "datasetVersion.metadataBlocks.biomedical.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "studyDesignTypeOther",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Unitofanalysisother",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "unitOfAnalysisOther",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Displayname",
+        "json_path": "datasetVersion.metadataBlocks.astrophysics.displayName"
+    },
+    {
+        "csv_column_name": "Name",
+        "json_path": "datasetVersion.metadataBlocks.astrophysics.name"
+    },
+    {
+        "csv_column_name": "Astrotype",
+        "array_path": "datasetVersion.metadataBlocks.astrophysics.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "astroType",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Resolution_Temporal",
+        "array_path": "datasetVersion.metadataBlocks.astrophysics.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "resolution.Temporal",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Coverage_Temporal",
+        "array_path": "datasetVersion.metadataBlocks.astrophysics.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "coverage.Temporal",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Timemethod",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "timeMethod",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Samplingprocedure",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "samplingProcedure",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Targetsamplesize",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "targetSampleSize",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Deviationsfromsampledesign",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "deviationsFromSampleDesign",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Collectionmodeother",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "collectionModeOther",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Cleaningoperations",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "cleaningOperations",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Frequencyofdatacollection",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "frequencyOfDataCollection",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Sizeofcollection",
+        "json_path": "datasetVersion.sizeOfCollection"
+    },
+    {
+        "csv_column_name": "Collectortraining",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "collectorTraining",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Actionstominimizeloss",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "actionsToMinimizeLoss",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Controloperations",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "controlOperations",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Specialpermissions",
+        "json_path": "datasetVersion.specialPermissions"
+    },
+    {
+        "csv_column_name": "Coverage_Objectcount",
+        "array_path": "datasetVersion.metadataBlocks.astrophysics.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "coverage.ObjectCount",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "Samplingprocedureother",
+        "array_path": "datasetVersion.metadataBlocks.socialscience.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "samplingProcedureOther",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    }
+]

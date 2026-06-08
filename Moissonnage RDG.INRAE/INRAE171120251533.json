@@ -1,0 +1,164 @@
+[
+    {
+        "csv_column_name": "source_dataset",
+        "json_path": "persistentUrl"
+    },
+    {
+        "csv_column_name": "references",
+        "json_path": "persistentUrl"
+    },
+    {
+        "csv_column_name": "liens.donnees",
+        "json_path": "persistentUrl"
+    },
+    {
+        "csv_column_name": "inspire.file_identifier",
+        "json_path": "storageIdentifier"
+    },
+    {
+        "csv_column_name": "language",
+        "json_path": "metadataLanguage"
+    },
+    {
+        "csv_column_name": "name",
+        "json_path": "datasetVersion.datasetPersistentId"
+    },
+    {
+        "csv_column_name": "modified",
+        "json_path": "datasetVersion.lastUpdateTime"
+    },
+    {
+        "csv_column_name": "dcat.created",
+        "json_path": "datasetVersion.createTime"
+    },
+    {
+        "csv_column_name": "dcat.accessRights",
+        "json_path": "datasetVersion.termsOfUse"
+    },
+    {
+        "csv_column_name": "title",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "title",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "inspire.contact_individual_name",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "datasetContact",
+        "extraction_key": "value[0].datasetContactName.value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "publisher",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "author",
+        "extraction_key": "value[0].authorName.value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "description",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "dsDescription",
+        "extraction_key": "value[0].dsDescriptionValue.value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "keyword",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "keyword",
+        "extraction_key": "value.keywordValue.value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "inspire.type",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "kindOfData",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+   {
+    "csv_column_name": "donnees",
+    "list_path": "datasetVersion.files",
+    "transformation": "join_html_links",
+    "link_template": {
+        "url_path": "dataFile.pidURL",
+        "label_path": "label"
+    }
+},
+    
+     {
+        "csv_column_name": "license",
+        "json_path": "datasetVersion.license.name"
+    },
+    {
+        "csv_column_name": "license_url",
+        "json_path": "datasetVersion.license.uri"
+    },
+    {
+        "csv_column_name": "keyword",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "topicClassification",
+        "extraction_key": "value.topicClassValue.value",
+        "transformation": "find_in_array"
+    },
+    {
+    "csv_column_name": "keyword",
+    "constant_value": "INRAE",
+    "transformation": "constant"
+    },
+    {
+        "csv_column_name": "Language",
+        "array_path": "datasetVersion.metadataBlocks.citation.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "language",
+        "extraction_key": "value",
+        "transformation": "find_in_array"
+    },
+    {
+        "csv_column_name": "inspire.extend_bounding_box_westbound_longitude",
+        "array_path": "datasetVersion.metadataBlocks.geospatial.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "geographicBoundingBox",
+        "extraction_key": "value.westLongitude.value",
+        "transformation": "find_in_array"
+    },
+        {
+        "csv_column_name": "inspire.extend_bounding_box_eastbound_longitude",
+        "array_path": "datasetVersion.metadataBlocks.geospatial.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "geographicBoundingBox",
+        "extraction_key": "value.eastLongitude.value",
+        "transformation": "find_in_array"
+    },
+        {
+        "csv_column_name": "inspire.extend_bounding_box_northbound_latitude",
+        "array_path": "datasetVersion.metadataBlocks.geospatial.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "geographicBoundingBox",
+        "extraction_key": "value.northLongitude.value",
+        "transformation": "find_in_array"
+    },
+        {
+        "csv_column_name": "inspire.extend_bounding_box_southbound_latitude",
+        "array_path": "datasetVersion.metadataBlocks.geospatial.fields",
+        "lookup_key": "typeName",
+        "lookup_value": "geographicBoundingBox",
+        "extraction_key": "value.southLongitude.value",
+        "transformation": "find_in_array"
+    },
+    {
+    "csv_column_name": "dcat.temporal",
+    "array_path": "datasetVersion.metadataBlocks.citation.fields",
+    "lookup_key": "typeName",
+    "lookup_value": "timePeriodCovered",
+    "transformation": "join_compound_period"
+} 
+]

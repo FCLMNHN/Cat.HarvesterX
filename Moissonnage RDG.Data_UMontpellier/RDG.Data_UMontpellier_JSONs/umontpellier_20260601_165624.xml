@@ -1,0 +1,1526 @@
+<?xml version='1.0' encoding='utf-8'?>
+<oai:OAI-PMH xmlns:oai="http://www.openarchives.org/OAI/2.0/">
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/1S15ZS</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/1S15ZS">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/2TWG8B</oai:identifier>
+      <oai:datestamp>2024-09-05T00:35:32Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/2TWG8B">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/2VZ16D</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/2VZ16D">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/5VJYCO</oai:identifier>
+      <oai:datestamp>2024-03-29T01:09:47Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/5VJYCO">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/8KCNLU</oai:identifier>
+      <oai:datestamp>2024-03-29T01:09:47Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/8KCNLU">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/93LPP7</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/93LPP7">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/B3FP79</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/B3FP79">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/BICRFX</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/BICRFX">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/C3QY4B</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/C3QY4B">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/CGG7HW</oai:identifier>
+      <oai:datestamp>2026-03-11T14:17:36Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/CGG7HW">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/D0GZDQ</oai:identifier>
+      <oai:datestamp>2024-03-29T01:09:47Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/D0GZDQ">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/DAAUP1</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/DAAUP1">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/DOWA7X</oai:identifier>
+      <oai:datestamp>2025-08-06T00:55:46Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/DOWA7X">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/DSYXMJ</oai:identifier>
+      <oai:datestamp>2024-03-29T01:09:47Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/DSYXMJ">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/DU1O18</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/DU1O18">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/E3SAPW</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/E3SAPW">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/EA1A18</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/EA1A18">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/EKGZGV</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/EKGZGV">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/F9ZSBS</oai:identifier>
+      <oai:datestamp>2024-05-16T00:10:27Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/F9ZSBS">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/FZ7RA7</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/FZ7RA7">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/G3GBJC</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/G3GBJC">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/GMRGPO</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/GMRGPO">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/H5RLTP</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/H5RLTP">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/IHELYM</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/IHELYM">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/IZJIT7</oai:identifier>
+      <oai:datestamp>2025-01-22T02:11:52Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/IZJIT7">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/J1QDPM</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/J1QDPM">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/JKZAPX</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/JKZAPX">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/JTO5DD</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/JTO5DD">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/K7SFQ5</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/K7SFQ5">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/KFBNR8</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/KFBNR8">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/LRY3M2</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/LRY3M2">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/M7OK9E</oai:identifier>
+      <oai:datestamp>2024-08-23T00:38:18Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/M7OK9E">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/MMZDD3</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/MMZDD3">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/MU0HXX</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/MU0HXX">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/NBIR7P</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/NBIR7P">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/NNJ75S</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/NNJ75S">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/PJKD06</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/PJKD06">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/PNCVTY</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/PNCVTY">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/PWWMYV</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/PWWMYV">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/Q2IWXL</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/Q2IWXL">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/RARBD1</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/RARBD1">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/RYMVUS</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/RYMVUS">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/S660LH</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/S660LH">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/UBFC6D</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/UBFC6D">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/UGFNKE</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/UGFNKE">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/UOU4TO</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/UOU4TO">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/UU2FQT</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/UU2FQT">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/V70ZST</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/V70ZST">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/WAKHNF</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/WAKHNF">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/YZJXET</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/YZJXET">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/ZDODW2</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/ZDODW2">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.15454/ZTCHEG</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>openaire_data</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.15454/ZTCHEG">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/0YNWP6</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/0YNWP6">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/1BRHFC</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>sorbonne-univ</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/1BRHFC">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/2XDJ5H</oai:identifier>
+      <oai:datestamp>2025-08-29T00:57:47Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/2XDJ5H">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/2YPE0F</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/2YPE0F">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/3QL466</oai:identifier>
+      <oai:datestamp>2025-02-25T03:48:13Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/3QL466">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/3ULGMT</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/3ULGMT">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/5ECVDJ</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/5ECVDJ">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/BFEXCE</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/BFEXCE">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/BPUVOK</oai:identifier>
+      <oai:datestamp>2026-03-13T13:17:33Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/BPUVOK">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/C5BMMI</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/C5BMMI">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/D63VYY</oai:identifier>
+      <oai:datestamp>2025-02-13T03:42:09Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/D63VYY">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/DEUATN</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/DEUATN">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/EH9KRW</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/EH9KRW">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/F9OKTE</oai:identifier>
+      <oai:datestamp>2025-02-06T02:41:19Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/F9OKTE">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/H6WPUS</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/H6WPUS">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/HASFBQ</oai:identifier>
+      <oai:datestamp>2024-07-05T00:32:31Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/HASFBQ">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/HNZBV9</oai:identifier>
+      <oai:datestamp>2026-01-23T02:04:03Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/HNZBV9">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/IHWWBF</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/IHWWBF">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/ISPFKW</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/ISPFKW">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/JCUYLT</oai:identifier>
+      <oai:datestamp>2025-05-03T01:59:05Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/JCUYLT">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/JRQESS</oai:identifier>
+      <oai:datestamp>2024-03-29T01:09:47Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/JRQESS">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/LEVTCU</oai:identifier>
+      <oai:datestamp>2025-02-13T03:42:09Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/LEVTCU">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/LXTWNG</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/LXTWNG">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/M5O6KX</oai:identifier>
+      <oai:datestamp>2024-03-29T01:09:47Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/M5O6KX">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/MUFRM9</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/MUFRM9">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/MXEMI4</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/MXEMI4">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/N9Z0BN</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/N9Z0BN">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/NVXGWI</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/NVXGWI">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/O34BW3</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/O34BW3">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/OOOA1Q</oai:identifier>
+      <oai:datestamp>2024-04-03T00:10:18Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/OOOA1Q">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/OTINNQ</oai:identifier>
+      <oai:datestamp>2025-01-22T02:11:52Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/OTINNQ">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/OYLDKO</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/OYLDKO">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/PD5B98</oai:identifier>
+      <oai:datestamp>2026-01-22T02:04:03Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/PD5B98">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/PIHJ8O</oai:identifier>
+      <oai:datestamp>2025-08-29T00:57:47Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>univ-grenoble-alpes</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/PIHJ8O">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/Q2CPKZ</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/Q2CPKZ">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/QN7MMM</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/QN7MMM">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/SVFQL2</oai:identifier>
+      <oai:datestamp>2024-03-29T01:09:47Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/SVFQL2">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/U3U7XR</oai:identifier>
+      <oai:datestamp>2025-01-22T02:12:49Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/U3U7XR">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/VCALE0</oai:identifier>
+      <oai:datestamp>2025-09-03T00:57:15Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/VCALE0">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/VCC5KV</oai:identifier>
+      <oai:datestamp>2025-02-12T03:39:02Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/VCC5KV">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/X6WW8A</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/X6WW8A">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/XJY5RO</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/XJY5RO">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/XJYAMA</oai:identifier>
+      <oai:datestamp>2026-04-09T13:02:04Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/XJYAMA">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/ZIA9MR</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/ZIA9MR">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+  <oai:record>
+    <oai:header>
+      <oai:identifier>doi:10.57745/ZPQSW7</oai:identifier>
+      <oai:datestamp>2024-03-20T01:08:29Z</oai:datestamp>
+      <oai:setSpec>umontpellier</oai:setSpec>
+      <oai:setSpec>INRAE_PNDB</oai:setSpec>
+      <oai:setSpec>AURELI</oai:setSpec>
+      <oai:setSpec>NoGeneticResource</oai:setSpec>
+      <oai:setSpec>ALL</oai:setSpec>
+      <oai:setSpec>UMR_AMAP</oai:setSpec>
+      <oai:setSpec>INRAE</oai:setSpec>
+    </oai:header>
+    <oai:metadata directApiCall="https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&amp;persistentId=doi:10.57745/ZPQSW7">
+      <dataverse_json>custom metadata</dataverse_json>
+    </oai:metadata>
+  </oai:record>
+</oai:OAI-PMH>
