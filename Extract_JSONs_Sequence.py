@@ -11,7 +11,9 @@ from typing import Dict, Any
 import subprocess
 import ftplib
 import glob
+from dotenv import load_dotenv
 
+load_dotenv()
 
 ET.register_namespace('', "http://www.openarchives.org/OAI/2.0/")
 ET.register_namespace('oai', "http://www.openarchives.org/OAI/2.0/")
@@ -338,11 +340,11 @@ def rename_json_to_done(filepath):
         print(f"\nFichier de listing renommé : {os.path.basename(new_name)}")
 
 # Paramètres FTP
-FTP_HOST = "node200-eu.n0c.com"
-FTP_PORT = 21
-FTP_USER = "francis.clement@pndb.worldlite.fr"
-FTP_PASSWORD = "&I7bjy7p91978"
-FTP_REMOTE_DIR = "ODS"
+FTP_HOST = os.getenv("FTP_")"node200-eu.n0c.com"
+FTP_PORT = os.getenv("FTP_PORT")
+FTP_USER = os.getenv("FTP_USER")
+FTP_PASSWORD = os.getenv("FTP_PASSWORD")
+FTP_REMOTE_DIR = os.getenv("FTP_REMOTE_DIR")
 
 # Authentification API Huwise (commun à tous les entrepôts)
 API_TOKEN = "Inscrire API-Key"
