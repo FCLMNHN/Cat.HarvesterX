@@ -15,6 +15,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+# Répertoire de base : dossier contenant ce script (portable sur tout hébergeur)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 ET.register_namespace('', "http://www.openarchives.org/OAI/2.0/")
 ET.register_namespace('oai', "http://www.openarchives.org/OAI/2.0/")
 ET.register_namespace('oai_dc', "http://www.openarchives.org/OAI/2.0/oai_dc/")
@@ -340,7 +343,7 @@ def rename_json_to_done(filepath):
         print(f"\nFichier de listing renommé : {os.path.basename(new_name)}")
 
 # Paramètres FTP
-FTP_HOST = os.getenv("FTP_")"node200-eu.n0c.com"
+FTP_HOST = os.getenv("FTP_HOST")
 FTP_PORT = os.getenv("FTP_PORT")
 FTP_USER = os.getenv("FTP_USER")
 FTP_PASSWORD = os.getenv("FTP_PASSWORD")
@@ -451,20 +454,6 @@ def run_transform_and_upload(repo_name: str, output_dir: str, harvester_uid: str
 
 if __name__ == "__main__":
     available_repositories: Dict[str, Dict[str, Any]] = {
-        "recherche_data_gouv": {
-            "harvester_uid": "",
-            "harvest": False,
-            "Type_moissonnage": "OAI-PMH",
-            "base_url": "https://entrepot.recherche.data.gouv.fr/oai",
-            "metadata_prefix": "oai_dc",
-            "set_spec": "ALL",
-            "use_set": True,
-            "question": "",
-            "subtree": "",
-            "description": "Entrepôt principal de recherche.data.gouv.fr (XML)",
-            "subject": "",
-            "output_dir": "OAI_Records/RechercheDataGouv_XML"
-        },
         "inrae": {
             "harvester_uid": "moissonneur-rdg",
             "harvest": True,
@@ -477,7 +466,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrepôt INRAE (JSON Dataverse)",
             "subject": "Agricultural Sciences, Earth and Environmental Sciences",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.INRAE/RDG.INRAE_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.INRAE", "RDG.INRAE_JSONs")
         },
         "pangaea": {
             "harvester_uid": "moissonneur-pangaea",
@@ -491,7 +480,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrepôt test PANGAEA (ISO 19139)",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage PANGAEA/PANGAEA_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage PANGAEA", "PANGAEA_JSONs")
         },
         "datacite_ubfc": {
             "harvester_uid": "",
@@ -505,7 +494,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrepôt DAtaCite de l'UBFC",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage DataCite.UBFC/DataCite.UBFC_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage DataCite.UBFC", "DataCite.UBFC_JSONs")
         },
         "uga": {
             "harvester_uid": "moissonneur-rdguga",
@@ -519,7 +508,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrepôt Université Grenoble Alpes (JSON Dataverse)",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.UGA/RDG.UGA_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.UGA", "RDG.UGA_JSONs")
         },
         "umontpellier": {
             "harvester_uid": "moissonneur-rdgdata_umontpellier",
@@ -533,7 +522,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrepôt Université Montpellier (API Search)",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.Data_UMontpellier/RDG.Data_UMontpellier_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.Data_UMontpellier", "RDG.Data_UMontpellier_JSONs")
         },
         "ulille": {
             "harvester_uid": "moissonneur-rdglillodata",
@@ -547,7 +536,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrepôt Université Lille (JSON Dataverse)",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.Univ-Lille/RDG.Univ-Lille_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.Univ-Lille", "RDG.Univ-Lille_JSONs")
         },
         "sorbonne-univ": {
             "harvester_uid": "moissonneur-rdgsu",
@@ -561,7 +550,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrepôt Université Sorbonne (JSON Dataverse)",
             "subject": "Earth and Environmental Sciences",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.SU/RDG.SU_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.SU", "RDG.SU_JSONs")
         },
         "upoitiers": {
             "harvester_uid": "moissonneur-rdgdata_upoitiers",
@@ -575,7 +564,7 @@ if __name__ == "__main__":
             "subtree": "univ-poitiers",
             "description": "Entrepôt Université Poitiers (JSON Dataverse)",
             "subject": "Earth and Environmental Sciences",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.UPoitiers/RDG.UPoitiers_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.UPoitiers", "RDG.UPoitiers_JSONs")
         },
         "ird": {
             "harvester_uid": "moissonneur-datasudsird",
@@ -589,7 +578,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrepôt IRD (JSON Dataverse)",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage DataSuds.IRD/DataSuds.IRD_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage DataSuds.IRD", "DataSuds.IRD_JSONs")
         },
         "ird_geo": {
             "harvester_uid": "moissonneur-datasuds-geoird",
@@ -603,7 +592,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrepôt GéoIRD (JSON Dataverse)",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage DataSuds_Geo.IRD/DataSuds_Geo.IRD_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage DataSuds_Geo.IRD", "DataSuds_Geo.IRD_JSONs")
         },
         "cirad": {
             "harvester_uid": "moissonneur-cirad",
@@ -617,7 +606,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrepôt CIRAD (JSON Dataverse)",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage CIRAD/CIRAD_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage CIRAD", "CIRAD_JSONs")
         },
         "ubfc": {
             "harvester_uid": "",
@@ -631,7 +620,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrpôt Université Bourgogne Franche Comté",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.UBFC/RDG.UBFC_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.UBFC", "RDG.UBFC_JSONs")
         },
         "univ-rennes": {
             "harvester_uid": "moissonneur-rdgurennes",
@@ -645,7 +634,7 @@ if __name__ == "__main__":
             "subtree": "univ-rennes",
             "description": "Entrepôt Université de Rennes (API Search)",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.URennes/RDG.URennes_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.URennes", "RDG.URennes_JSONs")
         },
         "cnrs": {
             "harvester_uid": "moissonneur-rdgcnrs",
@@ -659,7 +648,7 @@ if __name__ == "__main__":
             "subtree": "cnrs",
             "description": "Entrepôt Université du CNRS (API Search)",
             "subject": "Earth and Environmental Sciences, Agricultural Sciences",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.CNRS/RDG.CNRS_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.CNRS", "RDG.CNRS_JSONs")
         },
         "upsaclay": {
             "harvester_uid": "moissonneur-rdgupsaclay",
@@ -673,7 +662,7 @@ if __name__ == "__main__":
             "subtree": "upsaclay",
             "description": "Entrepôt Université Paris-Saclay (API Search)",
             "subject": "Earth and Environmental Sciences, Agricultural Sciences",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.UPSaclay/RDG.UPSaclay_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.UPSaclay", "RDG.UPSaclay_JSONs")
         },
         "data-bfc": {
             "harvester_uid": "moissonneur-rdgubfc",
@@ -687,7 +676,7 @@ if __name__ == "__main__":
             "subtree": "data-bfc",
             "description": "Entrepôt Université Bourgogne Franche Comté (API Search)",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.UBFC/RDG.UBFC_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.UBFC", "RDG.UBFC_JSONs")
         },
          "ubo": {
             "harvester_uid": "moissonneur-rdgubo",
@@ -701,7 +690,7 @@ if __name__ == "__main__":
             "subtree": "root",
             "description": "Entrepôt Université de Bretagne Occidentale (API Search)",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.UBO/RDG.UBO_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.UBO", "RDG.UBO_JSONs")
         },
         "ephe-psl": {
             "harvester_uid": "moissonneur-rdgephe",
@@ -715,7 +704,7 @@ if __name__ == "__main__":
             "subtree": "ephe-psl",
             "description": "Entrepôt EPHE (API Search)",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage RDG.EPHE/RDG.EPHE_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage RDG.EPHE", "RDG.EPHE_JSONs")
         },
         "zenodo": {
             "harvester_uid": "",
@@ -729,7 +718,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrepôt Zenodo",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage ZENODO/DataSuds.CIRAD_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage ZENODO", "DataSuds.ZENODO_JSONs")
         },
         "hal": {
             "harvester_uid": "",
@@ -743,7 +732,7 @@ if __name__ == "__main__":
             "subtree": "",
             "description": "Entrepôt HAL",
             "subject": "",
-            "output_dir": "/Users/francisclement/Documents/PNDB/Cat.harvestX/Moissonnage ZENODO/HAL_JSONs"
+            "output_dir": os.path.join(BASE_DIR, "Moissonnage HAL", "HAL_JSONs")
         }
     }
 
