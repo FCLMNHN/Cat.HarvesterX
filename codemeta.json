@@ -1,0 +1,47 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Technology for biodiversity",
+    "author": [
+        {
+            "id": "https://orcid.org/my-orcid?orcid=0000-0002-1276-0707",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "Pôle National des Données de Biodiversité"
+            },
+            "email": "francis.clement@essec.edu",
+            "familyName": "CLEMENT",
+            "givenName": "Francis"
+        },
+        {
+            "type": "Role",
+            "schema:author": "https://orcid.org/my-orcid?orcid=0000-0002-1276-0707",
+            "roleName": "Chief Operating Officer",
+            "startDate": "2025-02-25"
+        }
+    ],
+    "codeRepository": "https://github.com/FCLMNHN/Cat.HarvesterX",
+    "dateCreated": "2025-11-14",
+    "dateModified": "2026-06-08",
+    "datePublished": "2025-11-24",
+    "description": "This Python system is a comprehensive metadata harvesting tool designed to interact with data repositories such as Recherche Data Gouv or PANGAEA. It automates the entire workflow, from the initial retrieval to triggering the Huwise platform’s remote “CSV via FTP” harvester via the Automation API.",
+    "downloadUrl": "https://github.com/FCLMNHN/Cat.HarvesterX",
+    "keywords": [
+        "Harvester",
+        "OAI-PMH"
+    ],
+    "license": "https://spdx.org/licenses/MIT",
+    "name": "Cat.HarvesterX",
+    "operatingSystem": [
+        "MacOS",
+        "Linux",
+        "Unix",
+        "Windows"
+    ],
+    "programmingLanguage": "Python",
+    "relatedLink": "https://www.pnfb.fr",
+    "releaseNotes": "Multi-protocol: Supports harvesting via the OAI-PMH protocol (XML) and the Dataverse Search API (JSON Direct).\n\nXML normalisation: Automatic cleaning of XML files to correct encoding errors (e.g. &amp;amp;).\n\nSmart Extraction: Download of JSON metadata from the directApiCall attribute or via URL reconstruction using DOI (for PANGAEA).\n\nFiltering of harvested datasets: Ability to filter datasets by:\n- Set;\n- q= query parameter in the URL;\n- Subtree;\n- Subject.\n\nPost-processing pipeline:\n- Automatic cleaning of old files in the directories of harvested repositories.\n- Execution of an external transformation script Transform_JSONToCSV.py.\n- Transfer of results to a secure FTP server.\n- Launch of the Huwise platform’s “CSV via FTP” harvester via the Automation API.",
+    "version": "5.0",
+    "issueTracker": "https://github.com/FCLMNHN/Cat.HarvesterX/issues"
+}

@@ -1,8 +1,10 @@
 # OAI-PMH & Dataverse Harvester Pipeline
 
 Ce script Python (`Extract_JSONs_Sequence.py`) est un outil complet de moissonnage de métadonnées conçu pour interagir avec des entrepôts de données comme **Recherche Data Gouv** ou **PANGAEA**. Il automatise l'ensemble du workflow, de la récupération initiale jusqu'au déclenchement du moissonneur distant "CSV par FTP" de la plateforme Huwise via l'API Automation.
-
+V 5.0
 ---
+
+## V 5.0
 
 ## Fonctionnalités Principales
 
