@@ -29,7 +29,9 @@
     "downloadUrl": "https://github.com/FCLMNHN/Cat.HarvesterX",
     "keywords": [
         "Harvester",
-        "OAI-PMH"
+        "OAI-PMH",
+        "Huwise",
+        "Opendatasoft"
     ],
     "license": "https://spdx.org/licenses/MIT",
     "name": "Cat.HarvesterX",
